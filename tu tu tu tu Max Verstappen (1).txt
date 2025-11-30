@@ -1,11 +1,8 @@
-local LoadingScreen =loadstring(game:HttpGet("https://pastefy.app/wmC1DHTs/raw?part=addon.lua"))()
-
-task.wait(7.1
 game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer(table.unpack({
 
     [1] = "RolePlayBio",
 
-    [2] = "tubers Hub 1.0",
+    [2] = "tubers Hub 6.1",
 
 }))
 
@@ -41,7 +38,7 @@ game:GetService("ReplicatedStorage").RE["1RPNam1eColo1r"]:FireServer(table.unpac
 
 
 
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/silvaahub/Mamakakkakaak/refs/heads/main/Library%20branca-1.txt"))()
+local redzlib = loadstring(game:HttpGet("https://pastefy.app/pBEn1SSa/raw"))()
 
 
 local Window = redzlib:MakeWindow({
@@ -6629,3 +6626,4 @@ Tab12:AddButton({
         end
     end
 })
+
